@@ -1,0 +1,13 @@
+C:\PROGRAMMING\C SHARP VISUAL STUDIO\Prog Orientada a OBJs\42projetoProduto\42projetoProduto\bin\Debug\netcoreapp3.1\42projetoProduto.exe
+C:\PROGRAMMING\C SHARP VISUAL STUDIO\Prog Orientada a OBJs\42projetoProduto\42projetoProduto\bin\Debug\netcoreapp3.1\42projetoProduto.deps.json
+C:\PROGRAMMING\C SHARP VISUAL STUDIO\Prog Orientada a OBJs\42projetoProduto\42projetoProduto\bin\Debug\netcoreapp3.1\42projetoProduto.runtimeconfig.json
+C:\PROGRAMMING\C SHARP VISUAL STUDIO\Prog Orientada a OBJs\42projetoProduto\42projetoProduto\bin\Debug\netcoreapp3.1\42projetoProduto.runtimeconfig.dev.json
+C:\PROGRAMMING\C SHARP VISUAL STUDIO\Prog Orientada a OBJs\42projetoProduto\42projetoProduto\bin\Debug\netcoreapp3.1\42projetoProduto.dll
+C:\PROGRAMMING\C SHARP VISUAL STUDIO\Prog Orientada a OBJs\42projetoProduto\42projetoProduto\bin\Debug\netcoreapp3.1\42projetoProduto.pdb
+C:\PROGRAMMING\C SHARP VISUAL STUDIO\Prog Orientada a OBJs\42projetoProduto\42projetoProduto\obj\Debug\netcoreapp3.1\42projetoProduto.csprojAssemblyReference.cache
+C:\PROGRAMMING\C SHARP VISUAL STUDIO\Prog Orientada a OBJs\42projetoProduto\42projetoProduto\obj\Debug\netcoreapp3.1\42projetoProduto.AssemblyInfoInputs.cache
+C:\PROGRAMMING\C SHARP VISUAL STUDIO\Prog Orientada a OBJs\42projetoProduto\42projetoProduto\obj\Debug\netcoreapp3.1\42projetoProduto.AssemblyInfo.cs
+C:\PROGRAMMING\C SHARP VISUAL STUDIO\Prog Orientada a OBJs\42projetoProduto\42projetoProduto\obj\Debug\netcoreapp3.1\42projetoProduto.csproj.CoreCompileInputs.cache
+C:\PROGRAMMING\C SHARP VISUAL STUDIO\Prog Orientada a OBJs\42projetoProduto\42projetoProduto\obj\Debug\netcoreapp3.1\42projetoProduto.dll
+C:\PROGRAMMING\C SHARP VISUAL STUDIO\Prog Orientada a OBJs\42projetoProduto\42projetoProduto\obj\Debug\netcoreapp3.1\42projetoProduto.pdb
+C:\PROGRAMMING\C SHARP VISUAL STUDIO\Prog Orientada a OBJs\42projetoProduto\42projetoProduto\obj\Debug\netcoreapp3.1\42projetoProduto.genruntimeconfig.cache
